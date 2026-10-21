@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- 握住的手与张手共用掌心热点，用于实际拖动状态。 -->
+  <path d="M7.5 15.2v-3.3c0-3.4 3.5-3.9 4-1.1V8.9c0-3.2 3.7-3.3 3.8-.2v1.8c.4-3.2 4-3 4.1.1v1.5c.9-2.9 4.2-2.1 4.1 1l-.1 6.9c-.1 5.8-2.5 8-7 8.1-4.6.2-7.5-2.6-9.4-5.1L4.2 19c-1.8-2.8.7-5.3 3-3.7l4.6 3.4" stroke="#fffaf0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M7.5 15.2v-3.3c0-3.4 3.5-3.9 4-1.1V8.9c0-3.2 3.7-3.3 3.8-.2v1.8c.4-3.2 4-3 4.1.1v1.5c.9-2.9 4.2-2.1 4.1 1l-.1 6.9c-.1 5.8-2.5 8-7 8.1-4.6.2-7.5-2.6-9.4-5.1L4.2 19c-1.8-2.8.7-5.3 3-3.7l4.6 3.4" fill="#ecd6b1" stroke="#7b654d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m11.5 10.8.1 4m3.7-4.3.1 4m4-2.4v3.3M12 21.7c2.3-1.5 5.5-1.1 7.1.1" stroke="#ac8b65" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="m13.3 25 3.2.6" stroke="#fff2db" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

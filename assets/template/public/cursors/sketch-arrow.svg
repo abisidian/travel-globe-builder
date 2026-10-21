@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- 箭尖为鼠标热点，米色外沿让深色照片上的轮廓同样清楚。 -->
+  <path d="M5 3.5 26 18.6l-9.4 1.7-3.7 9L5 3.5Z" stroke="#fffaf0" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M5 3.5 26 18.6l-9.4 1.7-3.7 9L5 3.5Z" fill="#e5ebcb" stroke="#736049" stroke-width="1.65" stroke-linejoin="round"/>
+  <path d="m8.1 9.5 4.5 13.9m5.1-6.5 3.1.9" stroke="#a1ac7b" stroke-width="1" stroke-linecap="round"/>
+  <path d="m5.8 4.8 1.8 5.1" stroke="#fffaf0" stroke-width=".9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- 按下时爪垫轻压变暖色，热点保持不变，避免点击位置跳动。 -->
+  <g stroke="#fffaf0" stroke-width="4.2" stroke-linejoin="round">
+    <ellipse cx="7.4" cy="13" rx="3.2" ry="3.4" transform="rotate(-27 7.4 13)"/>
+    <ellipse cx="15" cy="7.6" rx="3.3" ry="4.1" transform="rotate(-6 15 7.6)"/>
+    <ellipse cx="23.5" cy="11.5" rx="3.2" ry="3.5" transform="rotate(24 23.5 11.5)"/>
+    <path d="M8.6 21.7c1.8-1.9 4.1-4.6 7.2-4.4 3.3.1 5.3 3 7.1 4.8 3 3.2-.5 6.3-4.2 4.9-1.9-.7-3.8-.7-5.7 0-4.4 1.4-7.7-2.1-4.4-5.3Z"/>
+  </g>
+  <g fill="#efc5a3" stroke="#81664c" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="7.4" cy="13" rx="3.2" ry="3.4" transform="rotate(-27 7.4 13)"/>
+    <ellipse cx="15" cy="7.6" rx="3.3" ry="4.1" transform="rotate(-6 15 7.6)"/>
+    <ellipse cx="23.5" cy="11.5" rx="3.2" ry="3.5" transform="rotate(24 23.5 11.5)"/>
+    <path d="M8.6 21.7c1.8-1.9 4.1-4.6 7.2-4.4 3.3.1 5.3 3 7.1 4.8 3 3.2-.5 6.3-4.2 4.9-1.9-.7-3.8-.7-5.7 0-4.4 1.4-7.7-2.1-4.4-5.3Z" fill="#db9c7c"/>
+    <path d="m3.4 25-1 1.6m25-3 2 1m-3-7.8 2-.4" stroke="#ba8c65" stroke-width="1.2"/>
+  </g>
+</svg>

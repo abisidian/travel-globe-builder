@@ -1,0 +1,435 @@
+{
+  "regions": [
+    {
+      "id": "CN-YN",
+      "name": "云南",
+      "country": "中国",
+      "englishName": "YUNNAN, CHINA",
+      "description": "把日子过慢一点，去有风的地方。",
+      "period": "2025.05.01 — 05.07",
+      "cities": [
+        {
+          "id": "dali",
+          "name": "大理"
+        },
+        {
+          "id": "lijiang",
+          "name": "丽江"
+        }
+      ],
+      "cover": "/media/thumbs/photo-01.jpg"
+    },
+    {
+      "id": "CN-SC",
+      "name": "四川",
+      "country": "中国",
+      "englishName": "SICHUAN, CHINA",
+      "description": "越过群山，才发现风景一直在路上。",
+      "period": "2025.09.12 — 09.17",
+      "cities": [
+        {
+          "id": "chengdu",
+          "name": "成都"
+        },
+        {
+          "id": "aba",
+          "name": "阿坝"
+        }
+      ],
+      "cover": "/media/thumbs/photo-07.jpg"
+    },
+    {
+      "id": "CN-ZJ",
+      "name": "浙江",
+      "country": "中国",
+      "englishName": "ZHEJIANG, CHINA",
+      "description": "山色与湖光，藏着江南的温柔。",
+      "period": "2025.04.03 — 04.06",
+      "cities": [
+        {
+          "id": "hangzhou",
+          "name": "杭州"
+        },
+        {
+          "id": "huzhou",
+          "name": "湖州"
+        }
+      ],
+      "cover": "/media/thumbs/photo-11.jpg"
+    },
+    {
+      "id": "JP-01",
+      "name": "北海道",
+      "country": "日本",
+      "englishName": "HOKKAIDO, JAPAN",
+      "description": "在北国的留白里，收藏一场安静。",
+      "period": "2025.02.08 — 02.13",
+      "cities": [
+        {
+          "id": "sapporo",
+          "name": "札幌"
+        },
+        {
+          "id": "biei",
+          "name": "美瑛"
+        }
+      ],
+      "cover": "/media/thumbs/photo-15.jpg"
+    },
+    {
+      "id": "IT-SI",
+      "name": "锡耶纳",
+      "country": "意大利",
+      "englishName": "SIENA, ITALY",
+      "description": "阳光落在山丘上，时间有了金色。",
+      "period": "2024.10.01 — 10.06",
+      "cities": [],
+      "cover": "/media/thumbs/photo-18.jpg"
+    },
+    {
+      "id": "US-CA",
+      "name": "加利福尼亚",
+      "country": "美国",
+      "englishName": "CALIFORNIA, USA",
+      "description": "一路向西，把海风收进镜头。",
+      "period": "2024.08.16 — 08.20",
+      "cities": [
+        {
+          "id": "big-sur",
+          "name": "大苏尔"
+        }
+      ],
+      "cover": "/media/thumbs/video-03.jpg"
+    }
+  ],
+  "media": [
+    {
+      "id": "photo-01",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "湖边，风正好",
+      "date": "2025-05-01",
+      "src": "/media/photo-01.webp",
+      "thumbnail": "/media/thumbs/photo-01.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1600&q=82&fm=webp",
+      "cityId": "dali"
+    },
+    {
+      "id": "photo-02",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "一整个蓝色下午",
+      "date": "2025-05-02",
+      "src": "/media/photo-02.webp",
+      "thumbnail": "/media/thumbs/photo-02.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1600&q=82&fm=webp",
+      "cityId": "dali"
+    },
+    {
+      "id": "photo-03",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "向山而行",
+      "date": "2025-05-03",
+      "src": "/media/photo-03.webp",
+      "thumbnail": "/media/thumbs/photo-03.jpg",
+      "width": 1600,
+      "height": 2400,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1631045603628-7ea89c855daf?w=1600&q=82&fm=webp",
+      "cityId": "lijiang"
+    },
+    {
+      "id": "photo-04",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "山野来信",
+      "date": "2025-05-04",
+      "src": "/media/photo-04.webp",
+      "thumbnail": "/media/thumbs/photo-04.jpg",
+      "width": 1600,
+      "height": 1063,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1600&q=82&fm=webp",
+      "cityId": "lijiang"
+    },
+    {
+      "id": "photo-05",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "日落之前",
+      "date": "2025-05-05",
+      "src": "/media/photo-05.webp",
+      "thumbnail": "/media/thumbs/photo-05.jpg",
+      "width": 1600,
+      "height": 2400,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1600&q=82&fm=webp",
+      "cityId": "dali"
+    },
+    {
+      "id": "photo-06",
+      "regionId": "CN-YN",
+      "type": "photo",
+      "title": "住进风景里",
+      "date": "2025-05-06",
+      "src": "/media/photo-06.webp",
+      "thumbnail": "/media/thumbs/photo-06.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1600&q=82&fm=webp",
+      "cityId": "lijiang"
+    },
+    {
+      "id": "photo-07",
+      "regionId": "CN-SC",
+      "type": "photo",
+      "title": "森林的呼吸",
+      "date": "2025-05-07",
+      "src": "/media/photo-07.webp",
+      "thumbnail": "/media/thumbs/photo-07.jpg",
+      "width": 1600,
+      "height": 1066,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1600&q=82&fm=webp",
+      "cityId": "aba"
+    },
+    {
+      "id": "photo-08",
+      "regionId": "CN-SC",
+      "type": "photo",
+      "title": "抬头是漫天星光",
+      "date": "2025-05-01",
+      "src": "/media/photo-08.webp",
+      "thumbnail": "/media/thumbs/photo-08.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1600&q=82&fm=webp",
+      "cityId": "aba"
+    },
+    {
+      "id": "photo-09",
+      "regionId": "CN-SC",
+      "type": "photo",
+      "title": "路过一片自由",
+      "date": "2025-05-02",
+      "src": "/media/photo-09.webp",
+      "thumbnail": "/media/thumbs/photo-09.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1600&q=82&fm=webp",
+      "cityId": "chengdu"
+    },
+    {
+      "id": "photo-10",
+      "regionId": "CN-SC",
+      "type": "photo",
+      "title": "山与山之间",
+      "date": "2025-05-03",
+      "src": "/media/photo-10.webp",
+      "thumbnail": "/media/thumbs/photo-10.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1600&q=82&fm=webp",
+      "cityId": "aba"
+    },
+    {
+      "id": "photo-11",
+      "regionId": "CN-ZJ",
+      "type": "photo",
+      "title": "晨光有信",
+      "date": "2025-05-04",
+      "src": "/media/photo-11.webp",
+      "thumbnail": "/media/thumbs/photo-11.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1600&q=82&fm=webp",
+      "cityId": "hangzhou"
+    },
+    {
+      "id": "photo-12",
+      "regionId": "CN-ZJ",
+      "type": "photo",
+      "title": "水岸慢生活",
+      "date": "2025-05-05",
+      "src": "/media/photo-12.webp",
+      "thumbnail": "/media/thumbs/photo-12.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1600&q=82&fm=webp",
+      "cityId": "huzhou"
+    },
+    {
+      "id": "photo-13",
+      "regionId": "CN-ZJ",
+      "type": "photo",
+      "title": "穿过绿色",
+      "date": "2025-05-06",
+      "src": "/media/photo-13.webp",
+      "thumbnail": "/media/thumbs/photo-13.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=1600&q=82&fm=webp",
+      "cityId": "hangzhou"
+    },
+    {
+      "id": "photo-14",
+      "regionId": "CN-ZJ",
+      "type": "photo",
+      "title": "远山如黛",
+      "date": "2025-05-07",
+      "src": "/media/photo-14.webp",
+      "thumbnail": "/media/thumbs/photo-14.jpg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1694770767534-f6dff0db8791?w=1600&q=82&fm=webp",
+      "cityId": "huzhou"
+    },
+    {
+      "id": "photo-15",
+      "regionId": "JP-01",
+      "type": "photo",
+      "title": "冬日留白",
+      "date": "2025-05-01",
+      "src": "/media/photo-15.webp",
+      "thumbnail": "/media/thumbs/photo-15.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=1600&q=82&fm=webp",
+      "cityId": "sapporo"
+    },
+    {
+      "id": "photo-16",
+      "regionId": "JP-01",
+      "type": "photo",
+      "title": "雪国散步",
+      "date": "2025-05-02",
+      "src": "/media/photo-16.webp",
+      "thumbnail": "/media/thumbs/photo-16.jpg",
+      "width": 1600,
+      "height": 1067,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?w=1600&q=82&fm=webp",
+      "cityId": "biei"
+    },
+    {
+      "id": "photo-17",
+      "regionId": "JP-01",
+      "type": "photo",
+      "title": "沿着森林走",
+      "date": "2025-05-03",
+      "src": "/media/photo-17.webp",
+      "thumbnail": "/media/thumbs/photo-17.jpg",
+      "width": 1600,
+      "height": 1104,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1600&q=82&fm=webp",
+      "cityId": "biei"
+    },
+    {
+      "id": "photo-18",
+      "regionId": "IT-SI",
+      "type": "photo",
+      "title": "小镇的调色盘",
+      "date": "2025-05-04",
+      "src": "/media/photo-18.webp",
+      "thumbnail": "/media/thumbs/photo-18.jpg",
+      "width": 1600,
+      "height": 2409,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=1600&q=82&fm=webp"
+    },
+    {
+      "id": "photo-19",
+      "regionId": "IT-SI",
+      "type": "photo",
+      "title": "给远方的明信片",
+      "date": "2025-05-05",
+      "src": "/media/photo-19.webp",
+      "thumbnail": "/media/thumbs/photo-19.jpg",
+      "width": 1600,
+      "height": 1068,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&q=82&fm=webp"
+    },
+    {
+      "id": "photo-20",
+      "regionId": "IT-SI",
+      "type": "photo",
+      "title": "午后的漫步",
+      "date": "2025-05-06",
+      "src": "/media/photo-20.webp",
+      "thumbnail": "/media/thumbs/photo-20.jpg",
+      "width": 1600,
+      "height": 1104,
+      "credit": "Unsplash · 示例风景",
+      "sourceUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1600&q=82&fm=webp"
+    },
+    {
+      "id": "video-01",
+      "regionId": "CN-YN",
+      "cityId": "dali",
+      "type": "video",
+      "title": "风与水，留在这一刻",
+      "date": "2025-05-06",
+      "src": "/media/video-01.mp4",
+      "thumbnail": "/media/thumbs/video-01.jpg",
+      "width": 960,
+      "height": 540,
+      "duration": 8,
+      "credit": "Amada44 · 海浪片段（裁剪 / 转码）· CC BY-SA 4.0",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Waves_of_the_sea_%28Video%29.webm/Waves_of_the_sea_%28Video%29.webm.480p.vp9.webm",
+      "sourceStart": 0,
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Waves_of_the_sea_(Video).webm",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "video-02",
+      "regionId": "JP-01",
+      "cityId": "biei",
+      "type": "video",
+      "title": "把花开的声音留下",
+      "date": "2025-05-06",
+      "src": "/media/video-02.mp4",
+      "thumbnail": "/media/thumbs/video-02.jpg",
+      "width": 960,
+      "height": 540,
+      "duration": 5,
+      "credit": "MDN · CC0 花园示例片段",
+      "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+    },
+    {
+      "id": "video-03",
+      "regionId": "US-CA",
+      "cityId": "big-sur",
+      "type": "video",
+      "title": "海风吹过的下午",
+      "date": "2025-05-06",
+      "src": "/media/video-03.mp4",
+      "thumbnail": "/media/thumbs/video-03.jpg",
+      "width": 960,
+      "height": 540,
+      "duration": 8,
+      "credit": "Amada44 · 海浪片段（裁剪 / 转码）· CC BY-SA 4.0",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Waves_of_the_sea_%28Video%29.webm/Waves_of_the_sea_%28Video%29.webm.480p.vp9.webm",
+      "sourceStart": 8,
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Waves_of_the_sea_(Video).webm",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

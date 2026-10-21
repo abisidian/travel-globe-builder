@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行地球项目生成器"
+  short_description: "生成完整手绘旅行地球应用，并整理导入本地照片视频及准备静态部署"
+  default_prompt: "使用 $travel-globe-builder 创建完整旅行地球相册项目，并按国家、省州和城市整理导入我的本地照片视频。"

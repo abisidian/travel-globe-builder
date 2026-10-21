@@ -1,0 +1,13 @@
+# 本地依赖、构建产物和缓存不进入 Skill 仓库。
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.DS_Store
+
+# 本机环境配置和包含原片路径的临时导入计划不公开。
+.env
+.env.*
+import-plan*.json
